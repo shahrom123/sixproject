@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .softclub */
+.softclub{
+    display: flex;
+    width: 100%;
+    background-color: lightslategray;
+   
+}
+/* .left */
+.nn{
+  display: flex;
+  margin-left: 10px;
+
+}
+.top{
+    text-align: start;
+    margin-right: 20px;
+    margin-top: 65px;
+}
+.oop{
+    box-shadow: 5px 10px 15px lightgrey;
+    border-radius: 5px;
+    padding: 15px 40px;
+    font-size: 15px;
+    background-color:blue;
+    color: white;
+    border: none;
+    margin: 15px 0px;
+    cursor: pointer;
+}
+.oo{
+    box-shadow: 5px 10px 15px lightgrey;
+    border-radius: 5px;
+    padding: 15px 40px;
+    font-size: 15px;
+    background-color:grey;
+    color: white;
+    border: none;
+    margin: 15px 0px;
+    cursor: pointer;
+}
+.oop:hover{
+    background-color: #30444E;
+}
+.oo:hover{
+    background-color:blue;
+}
+
+.ins{
+    height: 60px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.left ul li a{
+    text-decoration: none;
+    
+}
+
+.insta{
+    margin-bottom: 60px;
+    width: 10%;
+    
+ }
+ .top-top img{
+    border-radius: 50%;
+    width: 100%;
+    margin-left: 20px   ;
+
+}
+.top-buron{
+     display: flex;
+} 
+.top ul li{
+    list-style: none;
+
+}
+.icons ul li i{
+    width: 10%;
+}
+.top-buton{
+    display: flex;
+}
+.ins{
+    /* display: flex; */
+}
+.left{
+    /* display: flex; */
+    width: 20%;
+    margin-left: 10px;
+    line-height: 50px;
+    background-color: lightgrey;
+    height: 100vh;
+    overflow: hidden;
+}
+.button{
+    margin-top: 125px;
+    text-align: start;
+}
+.nnnnn{
+    margin-bottom: 50px;
+
+}
+.button ul li{
+    list-style: none;
+}
+/* .right */
+.right1{
+    display: flex;
+}
+.right{
+    
+    height: 100vh;
+    overflow: auto;
+    margin-top: 20px;
+}
+.subs ul li{
+    list-style: none;
+}
+.subs{
+    display: flex;
+   /* justify-content: space-between; */
+   margin: 10px 0px;
+}
+hr{
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+.program{
+    line-height: 30px;
+}
+
+.right{
+    width: 80%;
+   
+}
+.botton{
+    width: 80%;
+    margin-left: 80px;
+    margin-bottom: 100px;
+}
+.kurs1{
+    line-height: 20px;
+}
+.kurs2{
+    display: flex;
+    line-height: 40px;
+}
+
+/* bigicons */
+.iconsbig{
+   margin-left: 200px;
+}
+.iconsbig img {
+    border-radius: 50%;
+    width: 10%;
+  
+}
+.iiii{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 90%;
+  
+}
+.div{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    transition: all 0.2s ease;
+    height: 40vh;
+    margin-bottom: 20px;
+
+    
+}
+.div img {
+    width: 100%;
+    
+
+}
+.iconss{
+    position: absolute;
+    top: 0;
+    color: white;
+    z-index: -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0, 0.3);
+    width: 300px;
+    height: 300px;
+    text-align: start;
+}
+.div:hover .iconss{
+    z-index: 1;
+     
+}
+
+
+
+
+
+
+
